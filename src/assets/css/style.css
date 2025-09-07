@@ -16,7 +16,7 @@ body {
     border-radius: 10px;
 }
 
-.chat-mesages {
+#chat-mesages {
     height: 200px;
     overflow-y: auto;
     margin-bottom: 10px;
